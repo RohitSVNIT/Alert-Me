@@ -1,2 +1,2 @@
 # Alert-Me
-An Android App to Alert People in case of disastor
+An Android App to Alert Public when we face any disastor
